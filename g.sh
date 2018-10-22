@@ -1,0 +1,1 @@
+gyp a.gyp  --depth=.
